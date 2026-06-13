@@ -1,0 +1,6 @@
+{
+  "name": "Señor Pedro: Pretérito Perfecto 3D",
+  "description": "An interactive 3D game hosted by the charismatic Señor Pedro de Ramirez to master Spanish Pretérito Perfecto past tense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
